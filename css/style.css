@@ -75,6 +75,16 @@ align-self: auto;}
 .insta {
   background: url("social-1_logo-instagram.svg"); 
 }
+.linkedin {
+  background: url("social-1_logo-linkedin.svg");
+  opacity: 0.7;
+  max-width: 30px;
+  max-height: 30px;
+}
+.twitter {
+  background: url("social-1_logo-twitter.svg");
+  opacity: 0.7;
+}
 .gmail {
   background: url("gmail.png"); 
   opacity: 0.8;
